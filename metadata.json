@@ -1,0 +1,8 @@
+{
+  "name": "MultiScreenTopBar",
+  "description": "Places a TopBar on all screens",
+  "uuid": "multiScreenTopBar@andenthal",
+  "shell-version": [
+    "42"
+  ]
+}
